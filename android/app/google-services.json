@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "944273589658",
+    "project_id": "alty-76433",
+    "storage_bucket": "alty-76433.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944273589658:android:4659f74c83be42159de623",
+        "android_client_info": {
+          "package_name": "com.example.alty"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNjgxBaxs4-xREhjnEQC63Hxcv5QOBTCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
