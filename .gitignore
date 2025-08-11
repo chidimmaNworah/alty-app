@@ -11,6 +11,7 @@
 # next.js
 /.next/
 /out/
+/android/app/google-services.json
 
 # production
 /build
